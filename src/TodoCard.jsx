@@ -8,7 +8,7 @@ export default function ProfileCard() {
     name: "lyon Ephraim",
     bio: "Frontend developer passionate about building accessible and responsive user interfaces.",
     avatar:
-      "https://ibb.co/3yLXvSW0",
+      "https://i.ibb.co/pv9DQ4Z3/image-2.jpg",
     social: {
       twitter: "https://twitter.com",
       github: "https://github.com",
